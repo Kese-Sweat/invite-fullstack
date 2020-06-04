@@ -1,0 +1,19 @@
+.appContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.inviteeContainer{
+    width: 33%;
+    border-style: solid;
+}
+
+.userInfo{
+    border-bottom-style: solid;
+}
+
+.myButtons{
+    display: flex;
+    justify-content: space-around;
+}
+
